@@ -1,5 +1,5 @@
 {
-  "name": "react-csv-importer",
+  "name": "@limitless-lab/react-data-importer",
   "version": "0.5.0",
   "description": "React CSV import widget with user-customizable mapping",
   "keywords": [
@@ -101,6 +101,7 @@
     "papaparse": "^5.3.0",
     "react-dropzone": "^11.0.3",
     "react-use-gesture": "^7.0.16",
-    "readable-web-to-node-stream": "^2.0.0"
+    "readable-web-to-node-stream": "^2.0.0",
+    "xlsx": "^0.17.0"
   }
 }
